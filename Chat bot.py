@@ -1,5 +1,3 @@
-import random
-import math
 ##Each section shows the words that it will be recongnised and from which list it belongs to
  
 greetings = ['hello','welcome','hi','Hi','Hey!','hey','sup','yo','Hello','greetings','good day','good day']
