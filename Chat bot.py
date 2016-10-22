@@ -1,14 +1,12 @@
 import random
 ##Each section shows the words that it will be recongnised and from which list it belongs to
- 
-greetings = ['hello','welcome','hi','Hi','Hey!','hey','sup','yo','Hello','greetings','good day','good day']
-random_greeting = random.choice(greetings)
 
-validations = ['yes','Yes','yeah','Yea','yea','no','No','Nah','nah','not this time','affirmative','true','beyond a doubt']
-random_validation = random.choice(validations)
 
 verifications = ['are you sure','you sure','sure','Sure?']
 random_verification = random.choice(verifications)
+
+greetings = ['hello','welcome','hi','Hi','Hey!','hey','sup','yo','Hello','greetings','good day','good day']
+random_greeting = random.choice(greetings)
 
 approvals = ["that's good",'that is good','good']
 random_approval = random.choice(approvals)
@@ -21,6 +19,9 @@ random_response = random.choice(responses)
 
 stucks = ['lets talk']
 random_stuck = random.choice(stucks)
+
+validations = ['yes','Yes','yeah','Yea','yea','no','No','Nah','nah','not this time','affirmative','true','beyond a doubt']
+random_validation = random.choice(validations)
 
 icebreakers = ['do you know what the strongest living thing in the wolrd is?']
 random_icebreaker = random.choice(icebreakers)
