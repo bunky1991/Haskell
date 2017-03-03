@@ -1,5 +1,5 @@
 import random
-##Each section shows the words that it will be recongnised and from which list it belongs to
+##Each section shows the words that will be recongnised and from which list it belongs to
 
 
 verifications = ['are you sure','you sure','sure','Sure?']
